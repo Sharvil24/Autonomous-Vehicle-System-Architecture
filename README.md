@@ -1,4 +1,4 @@
-<h1 align="center">🚗 Autonomous Vehicle System Architecture</h1>
+<h1 align="center"> Autonomous Vehicle System Architecture</h1>
 
 <p align="center">
   <img width="1504" alt="AV_SA_image" src="https://github.com/user-attachments/assets/7e8855cc-c185-4128-ac0b-79b7f507eb11" />
