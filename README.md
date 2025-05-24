@@ -1,13 +1,13 @@
 <h1 align="center"> Autonomous Vehicle System Architecture</h1>
 
+<h2>📋 Overview</h2>
+
+<p>This repository presents a comprehensive autonomous vehicle system architecture designed with a modular, layered approach. The architecture enables safe, reliable self-driving capabilities through the integration of advanced sensors, AI algorithms, and robust control systems.</p>
+
 <p align="center">
   <img width="1504" alt="AV_SA_image" src="https://github.com/user-attachments/assets/7e8855cc-c185-4128-ac0b-79b7f507eb11" />
 
 </p>
-
-<h2>📋 Overview</h2>
-
-<p>This repository presents a comprehensive autonomous vehicle system architecture designed with a modular, layered approach. The architecture enables safe, reliable self-driving capabilities through the integration of advanced sensors, AI algorithms, and robust control systems.</p>
 
 <h2>🏗️ Architecture Components</h2>
 
